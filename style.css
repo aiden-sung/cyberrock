@@ -1,0 +1,34 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+    background-color: black;
+    color: yellowgreen;
+}
+
+button {
+    background-color: black;
+    border: 0;
+    cursor: pointer;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+.blue {
+    color: blue;
+}
+
+.container {
+    width: 400px;
+    margin: 20px auto;
+}
+
+#messages {
+    /* background-color: deepskyblue; */
+    font-family: 'Bebas Neue', cursive;
+    font-size: 20px;
+}
